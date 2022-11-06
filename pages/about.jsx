@@ -99,7 +99,7 @@ export default function AboutUs() {
                                 <h2>Join our team</h2>
                             </div>
                             <div className="col-12 col-md-6">
-                                <p>We believe it takes great people to make a great roduct. That's why we hire not only the perfect professional fits, but people who embody our company values. </p>
+                                <p>We believe it takes great people to make a great roduct. That&apos;s why we hire not only the perfect professional fits, but people who embody our company values. </p>
                                 <a href="mailto:diannesheilabona@yahoo.com" className=""><u>Contact us today</u></a>
                             </div>
                         </div>
