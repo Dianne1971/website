@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 500 200" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(0.500657,0,0,0.500657,69.9465,116.735)">
+        <text x="0px" y="0px" style="font-family:'HelveticaNeue-Bold', 'Helvetica Neue';font-weight:700;font-size:93.499px;fill:white;">DSB</text>
+    </g>
+    <g transform="matrix(0.146449,0,0,0.146449,172.157,92.5256)">
+        <text x="0px" y="0px" style="font-family:'HelveticaNeue-Bold', 'Helvetica Neue';font-weight:700;font-size:93.499px;fill:white;">ACCOUNTING</text>
+    </g>
+    <g transform="matrix(0.146449,0,0,0.146449,206.471,104.799)">
+        <text x="0px" y="0px" style="font-family:'HelveticaNeue-Bold', 'Helvetica Neue';font-weight:700;font-size:93.499px;fill:white;">and</text>
+    </g>
+    <g transform="matrix(0.146449,0,0,0.146449,185.61,117.265)">
+        <text x="0px" y="0px" style="font-family:'HelveticaNeue-Bold', 'Helvetica Neue';font-weight:700;font-size:93.499px;fill:white;">AUDITING</text>
+    </g>
+    <g transform="matrix(0.500657,0,0,0.500657,204.49,49.555)">
+        <g>
+            <g transform="matrix(1,0,0,1,128.358,134.184)">
+                <text x="0px" y="0px" style="font-family:'HelveticaNeue-Bold', 'Helvetica Neue';font-weight:700;font-size:93.499px;fill:white;">SER</text>
+            </g>
+            <g transform="matrix(1,0,0,1,315.45,134.184)">
+                <text x="0px" y="0px" style="font-family:'HelveticaNeue-Bold', 'Helvetica Neue';font-weight:700;font-size:93.499px;fill:white;">VICES</text>
+            </g>
+        </g>
+    </g>
+    <rect x="73.176" y="55.44" width="426.824" height="6.749" style="fill:white;"/>
+    <g transform="matrix(1,0,0,1,0,-9.61749)">
+        <rect x="73.176" y="55.44" width="426.824" height="6.749" style="fill:white;"/>
+    </g>
+    <path d="M73.176,62.188L0,117.484" style="fill:none;"/>
+    <path d="M73.176,55.44L0,104.977" style="fill:none;"/>
+    <g transform="matrix(1,0,0,1,0.0181096,0)">
+        <path d="M73.176,62.188L0,117.484L0,104.977L73.176,55.44L73.176,62.188Z" style="fill:white;"/>
+    </g>
+    <path d="M73.176,52.475L0,89.836" style="fill:none;"/>
+    <path d="M73.176,45.822L0,71.155" style="fill:none;"/>
+    <path d="M73.194,52.571L0.018,89.836L0.018,71.155L73.176,45.763L73.194,52.571Z" style="fill:white;"/>
+</svg>

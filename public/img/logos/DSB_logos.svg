@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 500 200" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(0.500657,0,0,0.500657,5.68318,49.555)">
+        <text x="128.358px" y="134.184px" style="font-family:'HelveticaNeue-Bold', 'Helvetica Neue';font-weight:700;font-size:93.499px;fill:rgb(109,2,21);">DSB</text>
+    </g>
+    <g transform="matrix(0.146449,0,0,0.146449,153.359,72.8745)">
+        <text x="128.358px" y="134.184px" style="font-family:'HelveticaNeue-Bold', 'Helvetica Neue';font-weight:700;font-size:93.499px;">ACCOUNTING</text>
+    </g>
+    <g transform="matrix(0.146449,0,0,0.146449,187.673,85.1483)">
+        <text x="128.358px" y="134.184px" style="font-family:'HelveticaNeue-Bold', 'Helvetica Neue';font-weight:700;font-size:93.499px;fill:rgb(109,2,21);">and</text>
+    </g>
+    <g transform="matrix(0.146449,0,0,0.146449,166.812,97.6138)">
+        <text x="128.358px" y="134.184px" style="font-family:'HelveticaNeue-Bold', 'Helvetica Neue';font-weight:700;font-size:93.499px;">AUDITING</text>
+    </g>
+    <g transform="matrix(0.500657,0,0,0.500657,204.49,49.555)">
+        <text x="128.358px" y="134.184px" style="font-family:'HelveticaNeue-Bold', 'Helvetica Neue';font-weight:700;font-size:93.499px;fill:rgb(109,2,21);">SER<tspan x="315.45px 374.355px " y="134.184px 134.184px ">VI</tspan>CES</text>
+    </g>
+    <rect x="73.176" y="55.44" width="426.824" height="6.749" style="fill:rgb(109,2,21);"/>
+    <g transform="matrix(1,0,0,1,0,-9.61749)">
+        <rect x="73.176" y="55.44" width="426.824" height="6.749" style="fill:rgb(217,4,41);"/>
+    </g>
+    <path d="M73.176,62.188L0,117.484" style="fill:none;"/>
+    <path d="M73.176,55.44L0,104.977" style="fill:none;"/>
+    <g transform="matrix(1,0,0,1,0.0181096,0)">
+        <path d="M73.176,62.188L0,117.484L0,104.977L73.176,55.44L73.176,62.188Z" style="fill:rgb(109,2,21);"/>
+    </g>
+    <path d="M73.176,52.475L0,89.836" style="fill:none;"/>
+    <path d="M73.176,45.822L0,71.155" style="fill:none;"/>
+    <path d="M73.194,52.571L0.018,89.836L0.018,71.155L73.176,45.763L73.194,52.571Z" style="fill:rgb(217,4,41);"/>
+</svg>
