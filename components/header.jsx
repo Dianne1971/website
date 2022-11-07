@@ -1,4 +1,5 @@
 import Link from 'next/link'
+import { useRouter } from 'next/router'
 import React, { useState } from 'react'
 import { GiHamburgerMenu } from 'react-icons/gi'
 
@@ -6,6 +7,7 @@ export default function Header() {
 
 
     const [isVisible, setIsVisible] = useState(0)
+    const router = useRouter()
 
 
 
@@ -14,14 +16,15 @@ export default function Header() {
             <div className="container">
                 <header className="d-flex justify-content-between align-items-center w-100 py-1  ">
                     <div className="d-flex justify-content-between  align-items-center w-100">
-                        <img src="/img/logos/DSB_logos.png" alt="DSB consulting services" width="250px" />
+                        <img src="/img/logos/DSB_logos.png" alt="DSB consulting services" className="pointer" width="250px" onClick={() => router.push("/")}/>
                         <div className="d-flex d-md-none pointer">
                             <GiHamburgerMenu size={40} onClick={() => setIsVisible(1)} />
                         </div>
                     </div>
 
                     <ul className="menuHeader">
-                        <li className="nav-item"><Link href="/" className="nav-link text-dark" aria-current="page">Home</Link></li>
+
+                        <li className="nav-item"><Link href="/" className="nav-link text-dark text-center">Home</Link></li>
                         <li className="nav-item"><Link href="/services" className="nav-link text-dark">Services</Link></li>
                         <li className="nav-item"><Link href="/about" className="nav-link text-dark">About us</Link></li>
                         <li className="nav-item"><Link href="/contact" className="nav-link text-dark">Contact</Link></li>

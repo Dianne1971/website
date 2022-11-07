@@ -5,6 +5,10 @@
     li {
         margin-left: 20px;
         min-width: 70px;
+        &:hover{
+            cursor: pointer;
+            text-decoration: underline;
+        }
     }
 }
 
