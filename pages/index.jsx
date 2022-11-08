@@ -77,7 +77,7 @@ export default function Home() {
             <div className="col-12 col-md-6 col-lg-6 text-start">
               <img src="https://images.unsplash.com/photo-1529400971008-f566de0e6dfc?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=100" width="100%" alt="tax filing dsb consuintg" height={180} style={{ objectFit: "cover" }} />
               <h5 className="mt-3 fw-bold">External<span className="color1"> Audit</span></h5>
-              <p>The external auditor's responsability is to audit the books prepared by the management and document issues found on them. It is the duty of the external auditor to find irregularities and suggest alternatives to correct them. <br />Any business activity in the philippines needs to be compliant both with BIR and SEC regulations.</p>
+              <p>The external auditor&apos;s responsability is to audit the books prepared by the management and document issues found on them. It is the duty of the external auditor to find irregularities and suggest alternatives to correct them. <br />Any business activity in the philippines needs to be compliant both with BIR and SEC regulations.</p>
             </div>
             <div className="col-12 col-md-6 col-lg-6 text-start">
               <img src="/img/homepage/aa.jpg" width="100%" alt="tax filing dsb consuintg" height={180} style={{ objectFit: "cover" }} />
@@ -100,7 +100,7 @@ export default function Home() {
             </div>
             <div className="col-12 col-md-4">
               <h5 className=""><BsFillEyeFill color="#ef233c" size={52} /> Envision</h5>
-              <p>If you don't imagine, it will never happen. The mind is the limit. As long as the mind can envision the fact that you can do something, you can do it, as long as you really believe 100 percent.</p>
+              <p>If you don&apos;t imagine, it will never happen. The mind is the limit. As long as the mind can envision the fact that you can do something, you can do it, as long as you really believe 100 percent.</p>
             </div>
             <div className="col-12 col-md-4">
               <h5 className=""><BiTargetLock color="#ef233c" size={52}/> Achieve</h5>

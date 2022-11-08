@@ -85,7 +85,7 @@ export default function Services() {
                         </div>
                         <div className="col-5  d-flex flex-column justify-content-center">
                             <h6 className="color5" style={{fontSize: 20}}>Tax  Filing</h6>
-                            <p>Call Experienced CPA's. Comply W/ Philippine Tax Law. Affordable & Hassle Free! Fast service.</p>
+                            <p>Call Experienced CPA&apos;s. Comply W/ Philippine Tax Law. Affordable & Hassle Free! Fast service.</p>
                         </div>
                         <div className="col-12 col-md-3  d-flex flex-column justify-content-center">
                             <button className="btn btn-outline-danger px-5 rounded-pill">Ask for help <BsArrowRight /></button>
@@ -100,7 +100,7 @@ export default function Services() {
                         </div>
                         <div className="col-5  d-flex flex-column justify-content-center">
                             <h6 className="color5" style={{fontSize: 20}}>Bookkeeping</h6>
-                            <p>A bookkeeping service offers a three-tiered approach to developing and maintaining your company's overall financial processes and management.</p>
+                            <p>A bookkeeping service offers a three-tiered approach to developing and maintaining your company&apos;s overall financial processes and management.</p>
                         </div>
                         <div className="col-12 col-md-3  d-flex flex-column justify-content-center">
                             <button className="btn btn-outline-danger px-5 rounded-pill">Ask for help <BsArrowRight /></button>
@@ -130,7 +130,7 @@ export default function Services() {
                         </div>
                         <div className="col-5  d-flex flex-column justify-content-center">
                             <h6 className="color5" style={{fontSize: 20}}>Registration & Retiring Gov. Agencies</h6>
-                            <p>We help you with SEC, BIR, SSS, PHIC, Pag-Ibig, Business Permit, Mayor's clearance, etc… </p>
+                            <p>We help you with SEC, BIR, SSS, PHIC, Pag-Ibig, Business Permit, Mayor&apos;s clearance, etc… </p>
                         </div>
                         <div className="col-12 col-md-3  d-flex flex-column justify-content-center">
                             <button className="btn btn-outline-danger px-5 rounded-pill">Ask for help <BsArrowRight /></button>
