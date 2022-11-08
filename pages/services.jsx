@@ -1,5 +1,8 @@
 import React from 'react'
-import { BsArrowRight, BsClockFill, BsCoin } from 'react-icons/bs'
+import { BsArrowRight, BsClockFill, BsCoin, BsLightbulb } from 'react-icons/bs'
+import { ImBooks } from 'react-icons/im'
+import { HiMagnifyingGlass } from 'react-icons/hi2'
+import { GiArchiveRegister } from 'react-icons/gi'
 import Footer from '../components/footer'
 import Header from '../components/header'
 import SEO from '../components/seo'
@@ -42,16 +45,17 @@ export default function Services() {
                     <div className="row">
                         <div className="col-12 col-md-6 h-100">
                             <div className="bg-white p-3 shadow-sm">
-                                <BsClockFill />
-                                <h3>Fast answer</h3>
-                                <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eos, praesentium ad nesciunt sed doloribus eaque similique quidem blanditiis placeat voluptates totam dolore officia alias nemo et fugit explicabo ratione beatae.</p>
+                                <BsClockFill size={44} color="#ef233c" />
+                                <h3 className="mt-3 fw-bold">Fast  <span className="color1">answer</span></h3>
+                                <p>We provide you with answers in the short amount of time. We are reachable almost at any time of the day, and we try to provide you with answers within some minutes. </p>
                             </div>
                         </div>
                         <div className="col-12 col-md-6 h-100">
                             <div className="bg-white p-3 shadow-sm">
-                                <BsClockFill />
-                                <h3>Fast answer</h3>
-                                <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eos, praesentium ad nesciunt sed doloribus eaque similique quidem blanditiis placeat voluptates totam dolore officia alias nemo et fugit explicabo ratione beatae.</p>
+                                <BsLightbulb size={44} color="#ef233c" />
+                                <h3 className="mt-3 fw-bold">Expert in <span className="color1"> the Know-how </span>
+                                </h3>
+                                <p>It doesn’t matter if you want to learn how to account things, it is important that you have someone who can advise you the best possible way to remain compliant.</p>
                             </div>
                         </div>
 
@@ -73,58 +77,62 @@ export default function Services() {
                         </div>
                     </div>
                     <div className="row border-top border-bottom py-3">
-                        <div className="col-3 col-md-2">
-                            01
+                        <div className="col-3 col-md-2 d-flex flex-column justify-content-center">
+                            <span className="color4" style={{ fontSize: 40, }}>01</span>
                         </div>
-                        <div className="col-3 col-md-2">
-                            <BsCoin />
+                        <div className="col-3 col-md-2 d-flex flex-column justify-content-center">
+                            <BsCoin color="#d90429" size={40} />
                         </div>
-                        <div className="col-5 ">
-                            Tax  Filing
+                        <div className="col-5  d-flex flex-column justify-content-center">
+                            <h6 className="color5" style={{fontSize: 20}}>Tax  Filing</h6>
+                            <p>Call Experienced CPA's. Comply W/ Philippine Tax Law. Affordable & Hassle Free! Fast service.</p>
                         </div>
-                        <div className="col-12 col-md-3 ">
+                        <div className="col-12 col-md-3  d-flex flex-column justify-content-center">
                             <button className="btn btn-outline-danger px-5 rounded-pill">Ask for help <BsArrowRight /></button>
                         </div>
                     </div>
                     <div className="row  border-bottom py-3">
-                        <div className="col-3 col-md-2">
-                            01
+                        <div className="col-3 col-md-2 d-flex flex-column justify-content-center">
+                            <span className="color4" style={{ fontSize: 40, }}>02</span>
                         </div>
-                        <div className="col-3 col-md-2">
-                            <BsCoin />
+                        <div className="col-3 col-md-2 d-flex flex-column justify-content-center">
+                            <ImBooks color="#d90429" size={40} />
                         </div>
-                        <div className="col-5 ">
-                            Tax  Filing
+                        <div className="col-5  d-flex flex-column justify-content-center">
+                            <h6 className="color5" style={{fontSize: 20}}>Bookkeeping</h6>
+                            <p>A bookkeeping service offers a three-tiered approach to developing and maintaining your company's overall financial processes and management.</p>
                         </div>
-                        <div className="col-12 col-md-3 ">
+                        <div className="col-12 col-md-3  d-flex flex-column justify-content-center">
                             <button className="btn btn-outline-danger px-5 rounded-pill">Ask for help <BsArrowRight /></button>
                         </div>
                     </div>
                     <div className="row border-bottom py-3">
-                        <div className="col-3 col-md-2">
-                            01
+                        <div className="col-3 col-md-2 d-flex flex-column justify-content-center">
+                            <span className="color4" style={{ fontSize: 40, }}>03</span>
                         </div>
-                        <div className="col-3 col-md-2">
-                            <BsCoin />
+                        <div className="col-3 col-md-2 d-flex flex-column justify-content-center">
+                            <HiMagnifyingGlass color="#d90429" size={40} />
                         </div>
-                        <div className="col-5 ">
-                            Tax  Filing
+                        <div className="col-5  d-flex flex-column justify-content-center">
+                            <h6 className="color5" style={{fontSize: 20}}>External Audit</h6>
+                            <p>Our professional auditing services We offer a comprehensive set of auditing solutions to our clients, including: External audit services</p>
                         </div>
-                        <div className="col-12 col-md-3 ">
+                        <div className="col-12 col-md-3  d-flex flex-column justify-content-center">
                             <button className="btn btn-outline-danger px-5 rounded-pill">Ask for help <BsArrowRight /></button>
                         </div>
                     </div>
                     <div className="row  py-3">
-                        <div className="col-3 col-md-2">
-                            01
+                        <div className="col-3 col-md-2 d-flex flex-column justify-content-center">
+                            <span className="color4" style={{ fontSize: 40, }}>04</span>
                         </div>
-                        <div className="col-3 col-md-2">
-                            <BsCoin />
+                        <div className="col-3 col-md-2 d-flex flex-column justify-content-center">
+                            <GiArchiveRegister color="#d90429" size={40} />
                         </div>
-                        <div className="col-5 ">
-                            Tax  Filing
+                        <div className="col-5  d-flex flex-column justify-content-center">
+                            <h6 className="color5" style={{fontSize: 20}}>Registration & Retiring Gov. Agencies</h6>
+                            <p>We help you with SEC, BIR, SSS, PHIC, Pag-Ibig, Business Permit, Mayor's clearance, etc… </p>
                         </div>
-                        <div className="col-12 col-md-3 ">
+                        <div className="col-12 col-md-3  d-flex flex-column justify-content-center">
                             <button className="btn btn-outline-danger px-5 rounded-pill">Ask for help <BsArrowRight /></button>
                         </div>
                     </div>
@@ -132,6 +140,12 @@ export default function Services() {
 
                 <section className="bg-white container p-md-5 p-3 mb-5">
                     <h2 className="fw-bold text-center"> <span className="color1">Trusted</span> by:</h2>
+                    <div className="d-flex justify-content-around align-items-center mt-5 flex-column flex-md-row">
+                        <img width="100px" height={"100%"}  src="/img/services/taxhelp.jpg" alt="tax help dsb consulting" />
+                        <img width="150px" height={"100%"}  src="/img/services/pcci.png" alt="pcci dsb consulting" />
+                        <img width="100px" height={"100%"}  src="/img/services/picpa.jpeg" alt="picpa dsb consulting" />
+                        <img width="150px" height={"100%"}  src="/img/services/RCLogo.png" alt="RCLogo dsb consulting" />
+                    </div>
                 </section>
 
 
@@ -140,10 +154,10 @@ export default function Services() {
                 </section>
 
                 <section className=" container p-md-5 p-3 mb-5 text-center">
-                    <h2 className="fw-bold text-center">Frou our  <span className="color1">clients:</span></h2>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Magnam velit quaerat expedita? Accusamus possimus, sed tempora nulla facilis repudiandae! Praesentium cupiditate minus tempora vero animi exercitationem ipsa neque placeat unde.</p>
+                    <h2 className="fw-bold text-center">From our  <span className="color1">clients:</span></h2>
+                    <p>DSB keeps our accounts clear and without any worry. <br /> Our contact usually replies within minutes <br/> and everything is done on time. </p>
                     <hr />
-                    <span className="text-center">Pedro Specter, CEO & Founder - Nortb Inc.</span>
+                    <span className="text-center"><b> Pedro Specter,</b> CEO & Founder - Nortb Inc.</span>
                 </section>
 
 

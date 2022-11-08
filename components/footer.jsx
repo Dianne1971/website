@@ -13,11 +13,11 @@ export default function Footer() {
                         <span>2022 DSB consulting © All rights reserved</span>
                     </div>
                     <div className="col-12 col-md-2 offset-md-3">
-                        <ul className="d-flex flex-md-column" style={{ listStyle: "none" }}>
+                        {/* <ul className="d-flex flex-md-column" style={{ listStyle: "none" }}>
                             <li>Privacy Policy</li>
                             <li>Terms of Service</li>
                             <li>Legal Disclaimer</li>
-                        </ul>
+                        </ul> */}
                     </div>
                     <div className="col-12 col-md-4">
                         <ul style={{ listStyle: "none" }}>

@@ -39,8 +39,8 @@ export default function AboutUs() {
                             <h2 style={{ fontSize: 40, fontWeight: 600 }}>Together we <br /> are strong</h2>
                         </div>
                         <div className="col-12 col-md-6 d-flex flex-column justify-content-start align-items-start  ">
-                            <p style={{ fontWeight: 500, fontSize: 20 }}>Our crew is always getting bigger, but we all work toward one goal: to make bookkeeping not only lean and clean but inevitable for every client that works with us</p>
-                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem illo saepe tempore necessitatibus voluptates vel quod. Inventore provident dignissimos saepe dolor assumenda, accusamus labore, vel amet praesentium quaerat dolore earum.</p>
+                            <p style={{ fontWeight: 500, fontSize: 20 }}>Our crew is always getting bigger, but we all work toward one goal: to make accounting not only lean and clean but compliant for every client that works with us.</p>
+                            <p>DSB Consulting provides outsourced services covering the full scope of the financial reporting and accounting process – from recording transactions and maintaining books of accounts to preparing statutory reports, financial statements, and other management reports, so our Clients can focus on the operations of their business.</p>
                         </div>
                     </div>
                 </section>
@@ -49,19 +49,17 @@ export default function AboutUs() {
                 </section>
 
                 <section>
-                    <div className="container py-5">
+                    <div className="container pb-5">
+                        {/* <h2 className="text-center">Our Core <span className="color1"> Values</span></h2> */}
                         <div className="row">
                             <div className="col-12 col-md-4">
-                                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium nemo ratione odio sequi labore exercitationem neque vitae aliquid cumque, mollitia necessitatibus ullam iste voluptate? Alias temporibus totam perspiciatis assumenda iure?</p>
-                                <span>230+</span>
+                                <h2>Speed</h2>
                             </div>
                             <div className="col-12 col-md-4">
-                                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium nemo ratione odio sequi labore exercitationem neque vitae aliquid cumque, mollitia necessitatibus ullam iste voluptate? Alias temporibus totam perspiciatis assumenda iure?</p>
-                                <span>230+</span>
+                                <h2>Efficiency</h2>
                             </div>
                             <div className="col-12 col-md-4">
-                                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium nemo ratione odio sequi labore exercitationem neque vitae aliquid cumque, mollitia necessitatibus ullam iste voluptate? Alias temporibus totam perspiciatis assumenda iure?</p>
-                                <span>230+</span>
+                                <h2>Transparency</h2>
                             </div>
                         </div>
                     </div>
@@ -77,20 +75,24 @@ export default function AboutUs() {
                         <hr />
                         <div className="row">
                             <div className="col-12 col-md-3">
-                                <span style={{ width: "100%", height: 300, backgroundColor: "#ddd", display: "inline-flex" }}></span>
-                                <p>Diane Sheila</p>
+                                <img src="/img/missSheila3.png" height={300} alt="dsb consulting" width={"100%"} style={{objectFit:"cover"}} />
+                                <p>Diane Sheila Bonna</p>
                             </div>
                             <div className="col-12 col-md-3">
                                 <span style={{ width: "100%", height: 300, backgroundColor: "#ddd", display: "inline-flex" }}></span>
-                                <p>Diane Sheila</p>
+                                <p>Marilyn Reyes</p>
                             </div>
                             <div className="col-12 col-md-3">
                                 <span style={{ width: "100%", height: 300, backgroundColor: "#ddd", display: "inline-flex" }}></span>
-                                <p>Diane Sheila</p>
+                                <p>Rodmer Galvez</p>
                             </div>
                             <div className="col-12 col-md-3">
                                 <span style={{ width: "100%", height: 300, backgroundColor: "#ddd", display: "inline-flex" }}></span>
-                                <p>Diane Sheila</p>
+                                <p>Rodel Brutas</p>
+                            </div>
+                            <div className="col-12 col-md-3">
+                                <span style={{ width: "100%", height: 300, backgroundColor: "#ddd", display: "inline-flex" }}></span>
+                                <p>Aldwin Nobleza</p>
                             </div>
                         </div>
                         <hr />
