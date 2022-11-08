@@ -37,9 +37,9 @@ export default function Header() {
         isVisible === 1 &&
         <ul className="sidebar" key={1}>
             <li className="nav-item"><Link href="/" className="nav-link text-dark" aria-current="page">Home</Link></li>
-            <li className="nav-item"><Link href="/" className="nav-link text-dark">Services</Link></li>
-            <li className="nav-item"><Link href="/" className="nav-link text-dark">About us</Link></li>
-            <li className="nav-item"><Link href="/" className="nav-link text-dark">Contact</Link></li>
+            <li className="nav-item"><Link href="/services" className="nav-link text-dark">Services</Link></li>
+            <li className="nav-item"><Link href="/about" className="nav-link text-dark">About us</Link></li>
+            <li className="nav-item"><Link href="/contact" className="nav-link text-dark">Contact</Link></li>
             <li className="nav-item" onClick={() => setIsVisible(0)}>Close</li>
         </ul>
         ]
