@@ -25,7 +25,7 @@ export default function Home() {
                 <span>Expert <span className="color1">Business Advisory</span></span>
                 <span>Services Provider</span>
               </h1>
-              <p>We Help companies With Their Accounting needs, Payroll Management & Tax Compliance are a piece of cake to us.</p>
+              <p>We Help companies With Their Accounting needs, Payroll Management & Tax Compliance.</p>
             </div>
             <div className="col-12 col-md-6">
               <img src="/img/missSheila3.png" className="" alt="dbs accounting" width={"100%"} style={{ maxHeight: 500, objectFit: "cover", objectPosition: "top", transform: "translateY(20px)" }} />
@@ -72,7 +72,7 @@ export default function Home() {
             <div className="col-12 col-md-6 col-lg-6 text-start">
               <img src="https://images.unsplash.com/photo-1505664194779-8beaceb93744?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=100" width="100%" alt="tax filing dsb consuintg" height={180} style={{ objectFit: "cover" }} />
               <h5 className="mt-3 fw-bold">Book<span className="color1">keeping</span></h5>
-              <p>Keep your ledgers up to date with the best oversight of a certified CPA. Bookkeeping is essential for any business since it is required by law. Proper bookkeeping allows as well audit clearance in case your company gets audited. <br />We help you controlling the things are accounted properly in every account.</p>
+              <p>Keep your ledgers up to date with the best oversight of a Certified Public Accountant (CPA). Bookkeeping is essential for any business since it is required by law. Proper bookkeeping is needed during SEC, BIR, & Cityhall examination. <br />We guide the company in proper accounting of expenses.</p>
             </div>
             <div className="col-12 col-md-6 col-lg-6 text-start">
               <img src="https://images.unsplash.com/photo-1529400971008-f566de0e6dfc?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=100" width="100%" alt="tax filing dsb consuintg" height={180} style={{ objectFit: "cover" }} />
@@ -82,7 +82,7 @@ export default function Home() {
             <div className="col-12 col-md-6 col-lg-6 text-start">
               <img src="/img/homepage/aa.jpg" width="100%" alt="tax filing dsb consuintg" height={180} style={{ objectFit: "cover" }} />
               <h5 className="mt-3 fw-bold">Company<span className="color1"> Registration</span></h5>
-              <p>We help you forming,building and registering your business together with the SEC and obtain the Barangay and Mayors Permit in order to operate. After that, we help you as well maintaining the documents with the BIR, SSS, Pag-IBIG and Philippine Health Insurance Corporation (PHIC). We also help with company retirement. </p>
+              <p>We help you forming,building and registering your business together with the SEC and BIR and obtain the Barangay and Mayors Permit in order to operate. After that, we help you as well maintaining the documents with the BIR, SSS, Pag-IBIG and Philippine Health Insurance Corporation (PHIC). We also help with company retirement. </p>
             </div>
           </div>
         </div>

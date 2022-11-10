@@ -74,25 +74,31 @@ export default function AboutUs() {
                         </div>
                         <hr />
                         <div className="row">
-                            <div className="col-12 col-md-3">
-                                <img src="/img/missSheila3.png" height={300} alt="dsb consulting" width={"100%"} style={{objectFit:"cover"}} />
-                                <p>Diane Sheila Bonna</p>
+                            <div className="col-12 col-md">
+                                <div className="border p-3">
+                                    <p>Diane Sheila Bonna</p>
+                                </div>
                             </div>
-                            <div className="col-12 col-md-3">
-                                <span style={{ width: "100%", height: 300, backgroundColor: "#ddd", display: "inline-flex" }}></span>
-                                <p>Marilyn Reyes</p>
+                            <div className="col-12 col-md">
+                                <div className="border p-3">
+                                    <p>Marilyn Reyes</p>
+                                </div>
                             </div>
-                            <div className="col-12 col-md-3">
-                                <span style={{ width: "100%", height: 300, backgroundColor: "#ddd", display: "inline-flex" }}></span>
-                                <p>Rodmer Galvez</p>
+                            <div className="col-12 col-md">
+                                <div className="border p-3">
+                                    <p>Rodmer Galvez</p>
+                                </div>
+
                             </div>
-                            <div className="col-12 col-md-3">
-                                <span style={{ width: "100%", height: 300, backgroundColor: "#ddd", display: "inline-flex" }}></span>
-                                <p>Rodel Brutas</p>
+                            <div className="col-12 col-md">
+                                <div className="border p-3">
+                                    <p>Rodel Brutas</p>
+                                </div>
                             </div>
-                            <div className="col-12 col-md-3">
-                                <span style={{ width: "100%", height: 300, backgroundColor: "#ddd", display: "inline-flex" }}></span>
-                                <p>Aldwin Nobleza</p>
+                            <div className="col-12 col-md">
+                                <div className="border p-3">
+                                    <p>Aldwin Nobleza</p>
+                                </div>
                             </div>
                         </div>
                         <hr />
