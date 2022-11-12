@@ -74,30 +74,35 @@ export default function AboutUs() {
                         </div>
                         <hr />
                         <div className="row">
-                            <div className="col-12 col-md">
+                            <div className="col-12 col-md-4 text-center">
                                 <div className="border p-3">
-                                    <p>Diane Sheila Bonna</p>
+                                    <h5>Diane Sheila Bonna</h5>
+                                    <p>Senior Accounting Officer</p>
                                 </div>
                             </div>
-                            <div className="col-12 col-md">
+                            <div className="col-12 col-md-4 text-center">
                                 <div className="border p-3">
-                                    <p>Marilyn Reyes</p>
+                                    <h5>Marilyn Reyes</h5>
+                                    <p>Senior Accounting Officer</p>
                                 </div>
                             </div>
-                            <div className="col-12 col-md">
+                            <div className="col-12 col-md-4 text-center">
                                 <div className="border p-3">
-                                    <p>Rodmer Galvez</p>
+                                    <h5>Rodmer Galvez</h5>
+                                    <p>Junior Accounting Officer</p>
                                 </div>
 
                             </div>
-                            <div className="col-12 col-md">
+                            <div className="col-12 col-md-4 offset-md-2 mt-3 text-center">
                                 <div className="border p-3">
-                                    <p>Rodel Brutas</p>
+                                    <h5>Rodel Brutas</h5>
+                                    <p>Encoder and Liason Officer</p>
                                 </div>
                             </div>
-                            <div className="col-12 col-md">
+                            <div className="col-12 col-md-4 mt-3 text-center">
                                 <div className="border p-3">
-                                    <p>Aldwin Nobleza</p>
+                                    <h5>Aldwin Nobleza</h5>
+                                    <p>Encoder and Liason Officer</p>
                                 </div>
                             </div>
                         </div>
