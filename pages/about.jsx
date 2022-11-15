@@ -40,7 +40,7 @@ export default function AboutUs() {
                         </div>
                         <div className="col-12 col-md-6 d-flex flex-column justify-content-start align-items-start  ">
                             <p style={{ fontWeight: 500, fontSize: 20 }}>Our crew is always getting bigger, but we all work toward one goal: to make accounting not only lean and clean but compliant for every client that works with us.</p>
-                            <p>DSB Consulting provides outsourced services covering the full scope of the financial reporting and accounting process – from recording transactions and maintaining books of accounts to preparing statutory reports, financial statements, and other management reports, so our Clients can focus on the operations of their business.</p>
+                            <p>DSB Consulting provides outsourced service covering the full scope of the financial reporting and accounting process – from recording transactions and maintaining books of accounts to preparing statutory reports, financial statements, and other management reports, so our Clients can focus on the operations of their business.</p>
                         </div>
                     </div>
                 </section>

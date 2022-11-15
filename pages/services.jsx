@@ -26,7 +26,7 @@ export default function Services() {
                         <div className="col-12 col-md-6 d-flex justify-content-start align-items-start  ">
                             <span>Make your business ledger more clean and unique in the eyes of each of your customers to reach a wider market.
                                 <br /><br />
-                                At DSB consulting, we offer a broad suite of finance and accounting services for owners of small-and-medium businesses, accounting firms, CFOs of large corporations, and shared services centers around the world.
+                                At DSB consulting, we offer a broad suite of finance and accounting service for owners of small-and-medium businesses, accounting firms, CFOs of large corporations, and shared service centers around the world.
                                 <br />
                                 We are driven by our passion to help our clients simplify and improve their accounting and bookkeeping functions.
                             </span>
@@ -73,7 +73,7 @@ export default function Services() {
                             <h2 className="fw-bold">Our Offer is just <br /> <span className="color1"> complete</span></h2>
                         </div>
                         <div className="col-12 col-md-6">
-                            <p>We present you with the best financial services carried out professionally, fast and efficiently.</p>
+                            <p>We present you with the best financial service carried out professionally, fast and efficiently.</p>
                         </div>
                     </div>
                     <div className="row border-top border-bottom py-3">
@@ -115,7 +115,7 @@ export default function Services() {
                         </div>
                         <div className="col-5  d-flex flex-column justify-content-center">
                             <h6 className="color5" style={{fontSize: 20}}>External Audit</h6>
-                            <p>Our professional auditing services We offer a comprehensive set of auditing solutions to our clients, including: External audit services</p>
+                            <p>Our professional auditing service We offer a comprehensive set of auditing solutions to our clients, including: External audit services</p>
                         </div>
                         <div className="col-12 col-md-3  d-flex flex-column justify-content-center">
                             <button className="btn btn-outline-danger px-5 rounded-pill">Ask for help <BsArrowRight /></button>

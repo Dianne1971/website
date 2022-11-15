@@ -23,7 +23,7 @@ export default function Home() {
               <h1 className="d-flex flex-column ">
                 <VscQuote color={"#d90429"} />
                 <span>Expert <span className="color1">Business Advisory</span></span>
-                <span>Services Provider</span>
+                <span>Service Provider</span>
               </h1>
               <p>We Help companies With Their Accounting needs, Payroll Management & Tax Compliance.</p>
             </div>
